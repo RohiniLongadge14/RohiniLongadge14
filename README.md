@@ -1,81 +1,112 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rohini+Longadge;Aspiring+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Vishwajeet+K.+Mahore;Aspiring+Data+Analyst+%7C+BI+Enthusiast;Transforming+Data+into+Smart+Decisions" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Rohini Longadge</h1>
-<h3 align="center">📊 Data Analyst | BI Enthusiast | Insight-Driven Thinker</h3>
+<h1 align="center">👋 Hi, I’m <span style="color:#36BCF7;">Vishwajeet K. Mahore</span></h1>
 
 <p align="center">
-📍 India  
+  📍 <b>India</b>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me 
+<p style="font-size:16px; line-height:1.6;">
+💡 <b>Data Analyst & Business Intelligence (BI) aspirant</b> with hands-on experience in 
+<b>data collection, cleaning, analysis, and dashboard development</b> using <b>Power BI</b> and modern visualization tools.  
 
-💡 Passionate **Data Analyst & Business Intelligence (BI) aspirant** with hands-on experience in:  
-✔️ Data Collection, Cleaning & Transformation  
-✔️ Exploratory Data Analysis (EDA)  
-✔️ Dashboard Development using Power BI  
-✔️ Generating actionable insights for business decisions  
-
-📌 Strong proficiency in:  
-**SQL | Python | Excel | Data Visualization | Reporting**
+🚀 Skilled in <b>SQL, Python, and Excel</b> for <b>data reporting, trend analysis</b>, and delivering 
+<b>actionable insights</b> that drive smarter business decisions.
+</p>
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools 
 
-### 📈 Data Analysis & Programming  
-`Python (Pandas, NumPy)` • `SQL` • `Excel` • `EDA` • `Data Cleaning` • `Trend Analysis`
+### 📈 Data Analysis & Programming
+<p>
+🔹 <b>Python</b> (Pandas, NumPy) <br>
+🔹 <b>SQL</b> <br>
+🔹 <b>Microsoft Excel</b> <br>
+🔹 Data Cleaning & Preprocessing <br>
+🔹 Exploratory Data Analysis (EDA) <br>
+🔹 Trend & Pattern Analysis
+</p>
 
-### 📊 Data Visualization & Reporting  
-`Power BI` • `Excel Dashboards` • `Matplotlib` • `Seaborn` • `Data Storytelling`
+### 📊 Data Visualization & Reporting
+<p>
+📊 <b>Power BI</b> <br>
+📊 Excel Dashboards <br>
+📊 Matplotlib & Seaborn <br>
+📊 Analytical Reporting <br>
+📊 Data Storytelling & Insights
+</p>
 
-### 📚 Databases & Data Management  
-`MySQL` • `PostgreSQL` • `MongoDB` • `Data Validation` • `Data Integration`
+### 📚 Databases & Data Management
+<p>
+🗄️ MySQL | PostgreSQL | MongoDB <br>
+🗄️ Structured Data Handling <br>
+🗄️ Data Quality, Accuracy & Validation <br>
+🗄️ Data Reporting & Lifecycle Management <br>
+🗄️ Multi-source Data Integration
+</p>
 
-### 📐 Analytical Techniques  
-`Descriptive Statistics` • `Correlation Analysis` • `Basic Regression`
+### 📐 Statistical & Analytical Techniques
+<p>
+📉 Descriptive Statistics <br>
+📉 Correlation Analysis <br>
+📉 Basic Regression
+</p>
 
-### ⚙️ Tools & Collaboration  
-`Jupyter Notebook` • `Git & GitHub` • `PowerPoint` • `Google Sheets`
+### ⚙️ Tools & Collaboration
+<p>
+🛠️ Jupyter Notebook <br>
+🛠️ Git & GitHub <br>
+🛠️ MS PowerPoint <br>
+🛠️ Google Sheets
+</p>
 
-### 🌱 Soft Skills  
-Problem-Solving • Critical Thinking • Time Management • Attention to Detail  
+### 🌱 Soft Skills
+<p>
+✨ Problem-Solving <br>
+✨ Attention to Detail <br>
+✨ Time Management <br>
+✨ Critical Thinking <br>
+✨ Analytical Mindset <br>
+✨ Organizational Skills
+</p>
 
 ---
 
-## 🎓 Education  
+## 🎓 Education 
+🎓 <b>B.Tech in Computer Technology</b> – Nagpur University (2021–2025)  
 
-🎓 **B.Tech in Computer Technology**  
-📍 Nagpur University (2021–2025)  
-
-📚 Relevant Coursework:  
-Data Analysis • SQL & Databases • Data Mining • Data Wrangling • Visualization  
+📘 <i>Relevant Coursework:</i>  
+Data Analysis | SQL & Databases | CS Fundamentals | Data Mining | Data Wrangling | Data Visualization  
 
 ---
 
-## 📜 Certifications  
-
-🏅 **IBM Data Analyst Professional Certificate** – Coursera  
-🏅 **IBM Full Stack Software Developer Professional Certificate** – Coursera  
-
----
-
-## 📬 Contact Me  
-
-📧 Email: **vishwajeetmahorevm@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/vishwajeet-kishor-mahore/  
-👨🏻‍💻 HackerRank: https://www.hackerrank.com/profile/vishwajeetmahor1  
+## 📜 Certifications
+<ul>
+  <li>🏅 IBM Data Analyst Professional Certificate – Coursera</li>
+  <li>🏅 IBM Full Stack Software Developer Professional Certificate – Coursera</li>
+</ul>
 
 ---
 
-## 🚀 Let's Connect  
-
-⭐ If you like my work, feel free to **star my repositories** and connect!  
+## 📬 Contact Me 
+<p>
+📧 <b>Email:</b> <a href="mailto:vishwajeetmahorevm@gmail.com">vishwajeetmahorevm@gmail.com</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/vishwajeet-kishor-mahore/">View Profile</a><br>
+👨🏻‍💻 <b>HackerRank:</b> <a href="https://www.hackerrank.com/profile/vishwajeetmahor1">Visit</a><br>
+📊 <b>GitHub:</b> You’re already here 😄
+</p>
 
 ---
 
-<!-- Profile README Special Repo -->
+<h3 align="center">⭐ If you like my work, feel free to star my repositories and connect with me! ⭐</h3>
+
+---
+
+<!--- Vishwajeet1503/Vishwajeet1503 is a ✨ special ✨ repository because its README.md appears on your GitHub profile. --->
