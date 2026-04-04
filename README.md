@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vishwajeet+K.+Mahore;Aspiring+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rohini+Longadge;Aspiring+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Enthusiast" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Rohini Longadge</h1>
