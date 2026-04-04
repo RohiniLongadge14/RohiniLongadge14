@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vishwajeet+K.+Mahore;Aspiring+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Enthusiast" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Vishwajeet K. Mahore</h1>
+<h1 align="center">👋 Hi, I'm Rohini Longadge</h1>
 <h3 align="center">📊 Data Analyst | BI Enthusiast | Insight-Driven Thinker</h3>
 
 <p align="center">
