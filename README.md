@@ -18,19 +18,14 @@ I’m a passionate **Full Stack Developer** who enjoys building scalable, real-w
 
 ### 💻 Languages  
 Java | Python | JavaScript  
-
 ### 🎨 Frontend  
 HTML | CSS | Bootstrap | React  
-
 ### ⚙️ Backend  
 Spring Boot | Hibernate | REST APIs  
-
 ### 🗄️ Database  
 MySQL  
-
 ### 🔧 Tools & Platforms  
 Git | GitHub | Postman | Maven | VS Code | Eclipse  
-
 ### ☁️ Cloud  
 AWS  
 
