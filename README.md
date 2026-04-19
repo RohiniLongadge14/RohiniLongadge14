@@ -92,8 +92,8 @@ Rashtrasant Tukadoji Maharaj Nagpur University
 
 ## 🤝 Let's Connect  
 📧 Email: rohinilon875@gmail.com  
-🔗 LinkedIn: *Add your LinkedIn link here*  
-💻 GitHub: *Add your GitHub link here*  
+🔗 LinkedIn: https://www.linkedin.com/in/rohini-longadge/
+💻 GitHub: You’re already here 😄 
 
 ---
 
