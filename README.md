@@ -106,4 +106,3 @@ I love solving real-world problems using technology and building projects that a
 
 ---
 
-*(This README is based on my resume details)*  
