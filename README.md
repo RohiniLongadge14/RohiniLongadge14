@@ -16,7 +16,7 @@ I’m a passionate **Full Stack Developer** who enjoys building scalable, real-w
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages ####Java | Python | JavaScript  
+### 💻 Languages #### Java | Python | JavaScript  
 ### 🎨 Frontend  
 HTML | CSS | Bootstrap | React  
 ### ⚙️ Backend  
