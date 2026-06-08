@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 I’m a passionate **Full Stack Developer** who enjoys building scalable, real-world applications with clean architecture and user-focused design. I love turning ideas into functional products and continuously improving my skills in backend development, cloud, and system design.  
 
-- 🔧 Built **100+ REST APIs** using Spring Boot  
+- 🔧 Built **60+ REST APIs** using Spring Boot  
 - 🤖 Developed an **AI-based Sign Language Detection System**  
 - 🌐 Experience in building **full-stack web applications**  
 - ☁️ AWS Certified Cloud Practitioner  
@@ -39,7 +39,7 @@ AWS
 ## 📌 Projects  
 
 ### 🏡 Real Estate Listing System  
-- Developed **100+ RESTful APIs** using Spring Boot  
+- Developed **60+ RESTful APIs** using Spring Boot  
 - Implemented **secure authentication & property management**  
 - Followed **Controller–Service–DAO architecture**  
 
